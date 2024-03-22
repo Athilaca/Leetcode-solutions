@@ -11,4 +11,4 @@ class Solution(object):
         if len(b)>=3:
           return b[2] 
         else:
-            return max(b) 
+            return max(b)  
